@@ -2,6 +2,8 @@ module github.com/finderAUT/hive.go/v3
 
 go 1.18
 
+retract v3.0.0 //forgot to change module path from iotaledger to finderAUT
+
 require (
 	github.com/cockroachdb/pebble v0.0.0-20220506213004-f8897076324b
 	github.com/dgraph-io/badger/v2 v2.2007.4
