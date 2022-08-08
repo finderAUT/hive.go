@@ -1,4 +1,4 @@
-module github.com/iotaledger/hive.go
+module github.com/iotaledger/hive.go/v2
 
 go 1.16
 
@@ -21,7 +21,7 @@ require (
 	go.dedis.ch/kyber/v3 v3.0.13
 	go.etcd.io/bbolt v1.3.6
 	go.uber.org/atomic v1.9.0
-	go.uber.org/dig v1.12.0 // indirect
+	go.uber.org/dig v1.12.0
 	go.uber.org/zap v1.19.0
 	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616 // indirect
