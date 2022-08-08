@@ -5,8 +5,8 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/iotaledger/hive.go/daemon"
-	"github.com/iotaledger/hive.go/logger"
+	"github.com/iotaledger/hive.go/v3/daemon"
+	"github.com/iotaledger/hive.go/v3/logger"
 )
 
 // ComponentParams defines the parameters configuration of a component.

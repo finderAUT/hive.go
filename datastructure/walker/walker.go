@@ -3,7 +3,7 @@ package walker
 import (
 	"container/list"
 
-	"github.com/iotaledger/hive.go/datastructure/set"
+	"github.com/iotaledger/hive.go/v3/datastructure/set"
 )
 
 // region Walker /////////////////////////////////////////////////////////////////////////////////////////////////////////

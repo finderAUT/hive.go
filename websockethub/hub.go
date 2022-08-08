@@ -7,7 +7,7 @@ import (
 	"github.com/gorilla/websocket"
 	"go.uber.org/atomic"
 
-	"github.com/iotaledger/hive.go/logger"
+	"github.com/iotaledger/hive.go/v3/logger"
 )
 
 // Hub maintains the set of active clients and broadcasts messages to the clients.

@@ -7,10 +7,10 @@ import (
 
 	"go.uber.org/atomic"
 
-	"github.com/iotaledger/hive.go/kvstore"
-	"github.com/iotaledger/hive.go/syncutils"
-	"github.com/iotaledger/hive.go/timedexecutor"
-	"github.com/iotaledger/hive.go/typeutils"
+	"github.com/iotaledger/hive.go/v3/kvstore"
+	"github.com/iotaledger/hive.go/v3/syncutils"
+	"github.com/iotaledger/hive.go/v3/timedexecutor"
+	"github.com/iotaledger/hive.go/v3/typeutils"
 )
 
 type CachedObject interface {

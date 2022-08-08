@@ -6,7 +6,7 @@ import (
 
 	flag "github.com/spf13/pflag"
 
-	"github.com/iotaledger/hive.go/configuration"
+	"github.com/iotaledger/hive.go/v3/configuration"
 )
 
 type ConfigurationSets []*ConfigurationSet

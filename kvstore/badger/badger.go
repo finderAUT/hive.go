@@ -7,10 +7,10 @@ import (
 	"github.com/pkg/errors"
 	"go.uber.org/atomic"
 
-	"github.com/iotaledger/hive.go/byteutils"
-	"github.com/iotaledger/hive.go/kvstore"
-	"github.com/iotaledger/hive.go/kvstore/utils"
-	"github.com/iotaledger/hive.go/types"
+	"github.com/iotaledger/hive.go/v3/byteutils"
+	"github.com/iotaledger/hive.go/v3/kvstore"
+	"github.com/iotaledger/hive.go/v3/kvstore/utils"
+	"github.com/iotaledger/hive.go/v3/types"
 )
 
 // badgerStore implements the KVStore interface around a BadgerDB instance.

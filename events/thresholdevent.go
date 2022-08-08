@@ -6,9 +6,9 @@ import (
 
 	"golang.org/x/xerrors"
 
-	"github.com/iotaledger/hive.go/cerrors"
-	"github.com/iotaledger/hive.go/datastructure/thresholdmap"
-	"github.com/iotaledger/hive.go/marshalutil"
+	"github.com/iotaledger/hive.go/v3/cerrors"
+	"github.com/iotaledger/hive.go/v3/datastructure/thresholdmap"
+	"github.com/iotaledger/hive.go/v3/marshalutil"
 )
 
 // region ThresholdEvent ///////////////////////////////////////////////////////////////////////////////////////////////

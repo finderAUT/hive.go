@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/iotaledger/hive.go/autopeering/distance"
-	"github.com/iotaledger/hive.go/autopeering/peer"
-	"github.com/iotaledger/hive.go/identity"
+	"github.com/iotaledger/hive.go/v3/autopeering/distance"
+	"github.com/iotaledger/hive.go/v3/autopeering/peer"
+	"github.com/iotaledger/hive.go/v3/identity"
 )
 
 type Neighborhood struct {

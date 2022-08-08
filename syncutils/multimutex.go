@@ -3,7 +3,7 @@ package syncutils
 import (
 	"sync"
 
-	"github.com/iotaledger/hive.go/types"
+	"github.com/iotaledger/hive.go/v3/types"
 )
 
 // region MultiMutex ///////////////////////////////////////////////////////////////////////////////////////////////////

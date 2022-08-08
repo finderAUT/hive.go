@@ -5,8 +5,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/iotaledger/hive.go/autopeering/peer"
-	"github.com/iotaledger/hive.go/autopeering/peer/peertest"
+	"github.com/iotaledger/hive.go/v3/autopeering/peer"
+	"github.com/iotaledger/hive.go/v3/autopeering/peer/peertest"
 )
 
 func TestFilterAddPeers(t *testing.T) {

@@ -9,10 +9,10 @@ import (
 
 	"go.uber.org/atomic"
 
-	"github.com/iotaledger/hive.go/typeutils"
+	"github.com/iotaledger/hive.go/v3/typeutils"
 
-	"github.com/iotaledger/hive.go/platform"
-	"github.com/iotaledger/hive.go/reflect"
+	"github.com/iotaledger/hive.go/v3/platform"
+	"github.com/iotaledger/hive.go/v3/reflect"
 )
 
 // region interfaces ///////////////////////////////////////////////////////////////////////////////////////////////////

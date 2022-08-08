@@ -1,7 +1,7 @@
 package filter_test
 
 import (
-	"github.com/iotaledger/hive.go/filter"
+	"github.com/iotaledger/hive.go/v3/filter"
 	"testing"
 )
 

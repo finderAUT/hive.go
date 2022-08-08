@@ -11,7 +11,7 @@ import (
 	sync "sync"
 
 	proto "github.com/golang/protobuf/proto"
-	proto1 "github.com/iotaledger/hive.go/autopeering/salt/proto"
+	proto1 "github.com/iotaledger/hive.go/v3/autopeering/salt/proto"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 )

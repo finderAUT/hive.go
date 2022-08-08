@@ -10,16 +10,16 @@ import (
 
 	"google.golang.org/protobuf/proto"
 
-	pb "github.com/iotaledger/hive.go/autopeering/discover/proto"
-	"github.com/iotaledger/hive.go/autopeering/peer"
-	peerpb "github.com/iotaledger/hive.go/autopeering/peer/proto"
-	"github.com/iotaledger/hive.go/autopeering/peer/service"
-	"github.com/iotaledger/hive.go/autopeering/server"
-	"github.com/iotaledger/hive.go/backoff"
-	"github.com/iotaledger/hive.go/identity"
-	"github.com/iotaledger/hive.go/logger"
-	"github.com/iotaledger/hive.go/netutil"
-	"github.com/iotaledger/hive.go/typeutils"
+	pb "github.com/iotaledger/hive.go/v3/autopeering/discover/proto"
+	"github.com/iotaledger/hive.go/v3/autopeering/peer"
+	peerpb "github.com/iotaledger/hive.go/v3/autopeering/peer/proto"
+	"github.com/iotaledger/hive.go/v3/autopeering/peer/service"
+	"github.com/iotaledger/hive.go/v3/autopeering/server"
+	"github.com/iotaledger/hive.go/v3/backoff"
+	"github.com/iotaledger/hive.go/v3/identity"
+	"github.com/iotaledger/hive.go/v3/logger"
+	"github.com/iotaledger/hive.go/v3/netutil"
+	"github.com/iotaledger/hive.go/v3/typeutils"
 )
 
 const (

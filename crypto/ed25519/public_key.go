@@ -10,7 +10,7 @@ import (
 	"github.com/mr-tron/base58"
 	"github.com/oasisprotocol/ed25519"
 
-	"github.com/iotaledger/hive.go/marshalutil"
+	"github.com/iotaledger/hive.go/v3/marshalutil"
 )
 
 // PublicKey is the type of Ed25519 public keys.

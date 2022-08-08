@@ -14,7 +14,7 @@ import (
 	"github.com/stretchr/testify/require"
 	"gopkg.in/yaml.v2"
 
-	reflectutils "github.com/iotaledger/hive.go/reflect"
+	reflectutils "github.com/iotaledger/hive.go/v3/reflect"
 )
 
 func tempFile(t *testing.T, pattern string) (string, *os.File) {

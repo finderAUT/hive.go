@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/iotaledger/hive.go/crypto/ed25519"
-	"github.com/iotaledger/hive.go/identity"
+	"github.com/iotaledger/hive.go/v3/crypto/ed25519"
+	"github.com/iotaledger/hive.go/v3/identity"
 	"github.com/stretchr/testify/require"
 )
 

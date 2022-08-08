@@ -6,7 +6,7 @@ import (
 
 	"go.uber.org/atomic"
 
-	"github.com/iotaledger/hive.go/syncutils"
+	"github.com/iotaledger/hive.go/v3/syncutils"
 )
 
 // BatchWriteObject is an object that can be persisted to the KVStore in batches using the BatchedWriter.
