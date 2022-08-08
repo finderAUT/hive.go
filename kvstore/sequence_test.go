@@ -4,8 +4,8 @@ import (
 	"math"
 	"testing"
 
-	"github.com/iotaledger/hive.go/v3/kvstore"
-	"github.com/iotaledger/hive.go/v3/kvstore/mapdb"
+	"github.com/finderAUT/hive.go/v3/kvstore"
+	"github.com/finderAUT/hive.go/v3/kvstore/mapdb"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

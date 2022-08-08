@@ -1,8 +1,8 @@
 package bls
 
 import (
-	"github.com/iotaledger/hive.go/v3/byteutils"
-	"github.com/iotaledger/hive.go/v3/marshalutil"
+	"github.com/finderAUT/hive.go/v3/byteutils"
+	"github.com/finderAUT/hive.go/v3/marshalutil"
 	"github.com/mr-tron/base58"
 	"golang.org/x/xerrors"
 )

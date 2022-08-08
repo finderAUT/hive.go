@@ -7,7 +7,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/iotaledger/hive.go/v3/serializer/v2"
+	"github.com/finderAUT/hive.go/v3/serializer/v2"
 	"github.com/stretchr/testify/assert"
 )
 

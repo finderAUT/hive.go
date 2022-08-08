@@ -18,8 +18,8 @@ import (
 	"github.com/knadh/koanf/providers/env"
 	"github.com/knadh/koanf/providers/file"
 
-	"github.com/iotaledger/hive.go/v3/ioutils"
-	reflectutils "github.com/iotaledger/hive.go/v3/reflect"
+	"github.com/finderAUT/hive.go/v3/ioutils"
+	reflectutils "github.com/finderAUT/hive.go/v3/reflect"
 )
 
 var (

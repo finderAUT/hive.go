@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/iotaledger/hive.go/v3/typeutils"
+	"github.com/finderAUT/hive.go/v3/typeutils"
 )
 
 func Interface(value interface{}) string {

@@ -8,8 +8,8 @@ package proto
 
 import (
 	proto "github.com/golang/protobuf/proto"
-	proto2 "github.com/iotaledger/hive.go/v3/autopeering/peer/proto"
-	proto1 "github.com/iotaledger/hive.go/v3/autopeering/peer/service/proto"
+	proto2 "github.com/finderAUT/hive.go/v3/autopeering/peer/proto"
+	proto1 "github.com/finderAUT/hive.go/v3/autopeering/peer/service/proto"
 	protoreflect "google.golang.org/protobuf/reflect/protoreflect"
 	protoimpl "google.golang.org/protobuf/runtime/protoimpl"
 	reflect "reflect"

@@ -1,7 +1,7 @@
 package objectstorage
 
 import (
-	"github.com/iotaledger/hive.go/v3/events"
+	"github.com/finderAUT/hive.go/v3/events"
 )
 
 type Events struct {

@@ -7,12 +7,12 @@ import (
 	"github.com/jellydator/ttlcache/v2"
 	"github.com/pkg/errors"
 
-	"github.com/iotaledger/hive.go/v3/autopeering/mana"
-	"github.com/iotaledger/hive.go/v3/autopeering/peer"
-	"github.com/iotaledger/hive.go/v3/autopeering/salt"
-	"github.com/iotaledger/hive.go/v3/events"
-	"github.com/iotaledger/hive.go/v3/identity"
-	"github.com/iotaledger/hive.go/v3/logger"
+	"github.com/finderAUT/hive.go/v3/autopeering/mana"
+	"github.com/finderAUT/hive.go/v3/autopeering/peer"
+	"github.com/finderAUT/hive.go/v3/autopeering/salt"
+	"github.com/finderAUT/hive.go/v3/events"
+	"github.com/finderAUT/hive.go/v3/identity"
+	"github.com/finderAUT/hive.go/v3/logger"
 )
 
 const (

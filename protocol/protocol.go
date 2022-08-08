@@ -3,10 +3,10 @@ package protocol
 import (
 	"sync"
 
-	"github.com/iotaledger/hive.go/v3/byteutils"
-	"github.com/iotaledger/hive.go/v3/events"
-	"github.com/iotaledger/hive.go/v3/protocol/message"
-	"github.com/iotaledger/hive.go/v3/protocol/tlv"
+	"github.com/finderAUT/hive.go/v3/byteutils"
+	"github.com/finderAUT/hive.go/v3/events"
+	"github.com/finderAUT/hive.go/v3/protocol/message"
+	"github.com/finderAUT/hive.go/v3/protocol/tlv"
 )
 
 // Events holds protocol related events.

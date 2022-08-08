@@ -8,7 +8,7 @@ import (
 
 	"github.com/panjf2000/ants/v2"
 
-	"github.com/iotaledger/hive.go/v3/typeutils"
+	"github.com/finderAUT/hive.go/v3/typeutils"
 )
 
 // Implements a non-blocking (it drops tasks if the pool is full) goroutine pool with fixed capacity, managing and

@@ -1,7 +1,7 @@
 package list_test
 
 import (
-	"github.com/iotaledger/hive.go/v3/list"
+	"github.com/finderAUT/hive.go/v3/list"
 	"testing"
 )
 

@@ -4,7 +4,7 @@ import (
 	"crypto/sha256"
 	"net"
 
-	"github.com/iotaledger/hive.go/v3/identity"
+	"github.com/finderAUT/hive.go/v3/identity"
 	"google.golang.org/protobuf/proto"
 )
 

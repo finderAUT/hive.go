@@ -10,8 +10,8 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 
-	"github.com/iotaledger/hive.go/v3/configuration"
-	"github.com/iotaledger/hive.go/v3/typeutils"
+	"github.com/finderAUT/hive.go/v3/configuration"
+	"github.com/finderAUT/hive.go/v3/typeutils"
 )
 
 // The Logger uses the sugared logger.

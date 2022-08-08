@@ -7,7 +7,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/iotaledger/hive.go/v3/app"
+	"github.com/finderAUT/hive.go/v3/app"
 )
 
 func init() {

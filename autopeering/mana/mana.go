@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/iotaledger/hive.go/v3/identity"
+	"github.com/finderAUT/hive.go/v3/identity"
 )
 
 // Func type is an adapter to allow the use of ordinary functions as Mana.

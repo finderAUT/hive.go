@@ -8,9 +8,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/iotaledger/hive.go/v3/daemon"
-	"github.com/iotaledger/hive.go/v3/events"
-	"github.com/iotaledger/hive.go/v3/logger"
+	"github.com/finderAUT/hive.go/v3/daemon"
+	"github.com/finderAUT/hive.go/v3/events"
+	"github.com/finderAUT/hive.go/v3/logger"
 )
 
 // AppSelfShutdownCaller is used to signal a app self shutdown caused by an error.

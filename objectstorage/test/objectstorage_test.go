@@ -14,15 +14,15 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/iotaledger/hive.go/v3/async"
-	"github.com/iotaledger/hive.go/v3/kvstore"
-	"github.com/iotaledger/hive.go/v3/kvstore/badger"
-	"github.com/iotaledger/hive.go/v3/kvstore/mapdb"
-	"github.com/iotaledger/hive.go/v3/kvstore/pebble"
-	"github.com/iotaledger/hive.go/v3/objectstorage"
-	"github.com/iotaledger/hive.go/v3/testutil"
-	"github.com/iotaledger/hive.go/v3/types"
-	"github.com/iotaledger/hive.go/v3/typeutils"
+	"github.com/finderAUT/hive.go/v3/async"
+	"github.com/finderAUT/hive.go/v3/kvstore"
+	"github.com/finderAUT/hive.go/v3/kvstore/badger"
+	"github.com/finderAUT/hive.go/v3/kvstore/mapdb"
+	"github.com/finderAUT/hive.go/v3/kvstore/pebble"
+	"github.com/finderAUT/hive.go/v3/objectstorage"
+	"github.com/finderAUT/hive.go/v3/testutil"
+	"github.com/finderAUT/hive.go/v3/types"
+	"github.com/finderAUT/hive.go/v3/typeutils"
 )
 
 const (

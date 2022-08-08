@@ -3,7 +3,7 @@ package events
 import (
 	"context"
 
-	"github.com/iotaledger/hive.go/v3/syncutils"
+	"github.com/finderAUT/hive.go/v3/syncutils"
 )
 
 type SyncEvent struct {

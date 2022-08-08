@@ -1,6 +1,6 @@
 package set
 
-import "github.com/iotaledger/hive.go/v3/types"
+import "github.com/finderAUT/hive.go/v3/types"
 
 // simpleSet implements a non-thread safe Set.
 type simpleSet struct {

@@ -10,8 +10,8 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/iotaledger/hive.go/v3/daemon"
-	"github.com/iotaledger/hive.go/v3/typeutils"
+	"github.com/finderAUT/hive.go/v3/daemon"
+	"github.com/finderAUT/hive.go/v3/typeutils"
 )
 
 // graceTime for go routines to start

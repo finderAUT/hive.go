@@ -13,11 +13,11 @@ import (
 	flag "github.com/spf13/pflag"
 	"go.uber.org/dig"
 
-	"github.com/iotaledger/hive.go/v3/configuration"
-	"github.com/iotaledger/hive.go/v3/daemon"
-	"github.com/iotaledger/hive.go/v3/logger"
-	"github.com/iotaledger/hive.go/v3/timeutil"
-	"github.com/iotaledger/hive.go/v3/version"
+	"github.com/finderAUT/hive.go/v3/configuration"
+	"github.com/finderAUT/hive.go/v3/daemon"
+	"github.com/finderAUT/hive.go/v3/logger"
+	"github.com/finderAUT/hive.go/v3/timeutil"
+	"github.com/finderAUT/hive.go/v3/version"
 )
 
 const (

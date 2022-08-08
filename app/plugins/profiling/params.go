@@ -1,7 +1,7 @@
 package profiling
 
 import (
-	"github.com/iotaledger/hive.go/v3/app"
+	"github.com/finderAUT/hive.go/v3/app"
 )
 
 // ParametersProfiling contains the definition of the parameters used by profiling.

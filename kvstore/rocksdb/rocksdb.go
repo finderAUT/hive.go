@@ -9,10 +9,10 @@ import (
 	"github.com/pkg/errors"
 	"go.uber.org/atomic"
 
-	"github.com/iotaledger/hive.go/v3/byteutils"
-	"github.com/iotaledger/hive.go/v3/kvstore"
-	"github.com/iotaledger/hive.go/v3/kvstore/utils"
-	"github.com/iotaledger/hive.go/v3/types"
+	"github.com/finderAUT/hive.go/v3/byteutils"
+	"github.com/finderAUT/hive.go/v3/kvstore"
+	"github.com/finderAUT/hive.go/v3/kvstore/utils"
+	"github.com/finderAUT/hive.go/v3/types"
 )
 
 type rocksDBStore struct {

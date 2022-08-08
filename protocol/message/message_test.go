@@ -3,7 +3,7 @@ package message_test
 import (
 	"testing"
 
-	"github.com/iotaledger/hive.go/v3/protocol/message"
+	"github.com/finderAUT/hive.go/v3/protocol/message"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -7,7 +7,7 @@ import (
 
 	"github.com/gohornet/grocksdb"
 
-	"github.com/iotaledger/hive.go/v3/ioutils"
+	"github.com/finderAUT/hive.go/v3/ioutils"
 )
 
 // RocksDB holds the underlying grocksdb.DB instance and options

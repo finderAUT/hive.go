@@ -8,7 +8,7 @@ import (
 	"github.com/oasisprotocol/ed25519"
 	"golang.org/x/crypto/blake2b"
 
-	"github.com/iotaledger/hive.go/v3/byteutils"
+	"github.com/finderAUT/hive.go/v3/byteutils"
 )
 
 // Seed is a generator for a deterministic sequence of KeyPairs.

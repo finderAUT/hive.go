@@ -3,8 +3,8 @@ package events
 import (
 	"go.uber.org/atomic"
 
-	"github.com/iotaledger/hive.go/v3/datastructure/orderedmap"
-	reflectpkg "github.com/iotaledger/hive.go/v3/reflect"
+	"github.com/finderAUT/hive.go/v3/datastructure/orderedmap"
+	reflectpkg "github.com/finderAUT/hive.go/v3/reflect"
 )
 
 // Event represents an object that is triggered to notify code of "interesting updates" that may affect its behavior.

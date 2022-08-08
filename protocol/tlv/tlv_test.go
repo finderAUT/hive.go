@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/iotaledger/hive.go/v3/protocol/message"
-	"github.com/iotaledger/hive.go/v3/protocol/tlv"
+	"github.com/finderAUT/hive.go/v3/protocol/message"
+	"github.com/finderAUT/hive.go/v3/protocol/tlv"
 	"github.com/stretchr/testify/assert"
 )
 

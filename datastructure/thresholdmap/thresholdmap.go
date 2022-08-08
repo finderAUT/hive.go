@@ -4,7 +4,7 @@ import (
 	"github.com/emirpasic/gods/trees/redblacktree"
 	"github.com/emirpasic/gods/utils"
 
-	"github.com/iotaledger/hive.go/v3/datastructure/genericcomparator"
+	"github.com/finderAUT/hive.go/v3/datastructure/genericcomparator"
 )
 
 // region ThresholdMap /////////////////////////////////////////////////////////////////////////////////////////////////

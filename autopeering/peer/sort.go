@@ -3,7 +3,7 @@ package peer
 import (
 	"sort"
 
-	"github.com/iotaledger/hive.go/v3/autopeering/distance"
+	"github.com/finderAUT/hive.go/v3/autopeering/distance"
 )
 
 // PeerDistance defines the relative distance wrt a remote peer

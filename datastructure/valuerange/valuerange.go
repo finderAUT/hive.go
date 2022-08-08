@@ -1,9 +1,9 @@
 package valuerange
 
 import (
-	"github.com/iotaledger/hive.go/v3/bitmask"
-	"github.com/iotaledger/hive.go/v3/cerrors"
-	"github.com/iotaledger/hive.go/v3/marshalutil"
+	"github.com/finderAUT/hive.go/v3/bitmask"
+	"github.com/finderAUT/hive.go/v3/cerrors"
+	"github.com/finderAUT/hive.go/v3/marshalutil"
 	"golang.org/x/xerrors"
 )
 

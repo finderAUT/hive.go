@@ -7,8 +7,8 @@ import (
 	pebbledb "github.com/cockroachdb/pebble"
 	"github.com/cockroachdb/pebble/bloom"
 
-	"github.com/iotaledger/hive.go/v3/kvstore"
-	"github.com/iotaledger/hive.go/v3/kvstore/pebble"
+	"github.com/finderAUT/hive.go/v3/kvstore"
+	"github.com/finderAUT/hive.go/v3/kvstore/pebble"
 )
 
 // PebbleDB creates a temporary PebbleKVStore that automatically gets cleaned up when the test finishes.

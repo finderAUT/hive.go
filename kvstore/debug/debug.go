@@ -1,8 +1,8 @@
 package debug
 
 import (
-	"github.com/iotaledger/hive.go/v3/bitmask"
-	"github.com/iotaledger/hive.go/v3/kvstore"
+	"github.com/finderAUT/hive.go/v3/bitmask"
+	"github.com/finderAUT/hive.go/v3/kvstore"
 )
 
 // Command is a type that represents a specific method in the KVStore.
