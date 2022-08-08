@@ -4,10 +4,10 @@ import (
 	"net"
 	"sync"
 
-	"github.com/iotaledger/hive.go/v2/autopeering/peer/service"
-	"github.com/iotaledger/hive.go/v2/autopeering/salt"
-	"github.com/iotaledger/hive.go/v2/crypto/ed25519"
-	"github.com/iotaledger/hive.go/v2/identity"
+	"github.com/finderAUT/hive.go/v2/autopeering/peer/service"
+	"github.com/finderAUT/hive.go/v2/autopeering/salt"
+	"github.com/finderAUT/hive.go/v2/crypto/ed25519"
+	"github.com/finderAUT/hive.go/v2/identity"
 )
 
 // Local defines the struct of a local peer

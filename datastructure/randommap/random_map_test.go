@@ -3,7 +3,7 @@ package randommap
 import (
 	"testing"
 
-	"github.com/iotaledger/hive.go/v2/datastructure/set"
+	"github.com/finderAUT/hive.go/v2/datastructure/set"
 	"github.com/stretchr/testify/assert"
 )
 

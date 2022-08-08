@@ -1,7 +1,7 @@
 package udp
 
 import (
-	"github.com/iotaledger/hive.go/v2/events"
+	"github.com/finderAUT/hive.go/v2/events"
 	"net"
 )
 

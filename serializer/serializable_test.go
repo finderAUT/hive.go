@@ -5,8 +5,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/iotaledger/hive.go/v2/serializer"
-	"github.com/iotaledger/hive.go/v2/testutil"
+	"github.com/finderAUT/hive.go/v2/serializer"
+	"github.com/finderAUT/hive.go/v2/testutil"
 
 	"github.com/stretchr/testify/assert"
 )

@@ -6,12 +6,12 @@ import (
 	"sync/atomic"
 	"unsafe"
 
-	"github.com/iotaledger/hive.go/v2/events"
-	"github.com/iotaledger/hive.go/v2/kvstore"
-	"github.com/iotaledger/hive.go/v2/syncutils"
-	"github.com/iotaledger/hive.go/v2/timedexecutor"
-	"github.com/iotaledger/hive.go/v2/types"
-	"github.com/iotaledger/hive.go/v2/typeutils"
+	"github.com/finderAUT/hive.go/v2/events"
+	"github.com/finderAUT/hive.go/v2/kvstore"
+	"github.com/finderAUT/hive.go/v2/syncutils"
+	"github.com/finderAUT/hive.go/v2/timedexecutor"
+	"github.com/finderAUT/hive.go/v2/types"
+	"github.com/finderAUT/hive.go/v2/typeutils"
 )
 
 // ObjectStorage is a manual cache which keeps objects as long as consumers are using it.

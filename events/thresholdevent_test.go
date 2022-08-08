@@ -8,8 +8,8 @@ import (
 	"github.com/stretchr/testify/mock"
 	"golang.org/x/xerrors"
 
-	"github.com/iotaledger/hive.go/v2/cerrors"
-	"github.com/iotaledger/hive.go/v2/marshalutil"
+	"github.com/finderAUT/hive.go/v2/cerrors"
+	"github.com/finderAUT/hive.go/v2/marshalutil"
 )
 
 // region TestThresholdEvent ///////////////////////////////////////////////////////////////////////////////////////////

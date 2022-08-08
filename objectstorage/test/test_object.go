@@ -5,8 +5,8 @@ import (
 	"encoding/binary"
 	"sync"
 
-	"github.com/iotaledger/hive.go/v2/marshalutil"
-	"github.com/iotaledger/hive.go/v2/objectstorage"
+	"github.com/finderAUT/hive.go/v2/marshalutil"
+	"github.com/finderAUT/hive.go/v2/objectstorage"
 )
 
 type testObject struct {

@@ -7,9 +7,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/iotaledger/hive.go/v2/crypto/ed25519"
-	"github.com/iotaledger/hive.go/v2/identity"
-	"github.com/iotaledger/hive.go/v2/kvstore"
+	"github.com/finderAUT/hive.go/v2/crypto/ed25519"
+	"github.com/finderAUT/hive.go/v2/identity"
+	"github.com/finderAUT/hive.go/v2/kvstore"
 )
 
 const (

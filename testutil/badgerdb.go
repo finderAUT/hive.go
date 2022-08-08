@@ -5,8 +5,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/iotaledger/hive.go/v2/kvstore"
-	"github.com/iotaledger/hive.go/v2/kvstore/badger"
+	"github.com/finderAUT/hive.go/v2/kvstore"
+	"github.com/finderAUT/hive.go/v2/kvstore/badger"
 )
 
 // variables for keeping track of how many databases have been created by the given test

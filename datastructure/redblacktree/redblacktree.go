@@ -1,8 +1,8 @@
 package redblacktree
 
 import (
-	"github.com/iotaledger/hive.go/v2/datastructure/genericcomparator"
-	"github.com/iotaledger/hive.go/v2/stringify"
+	"github.com/finderAUT/hive.go/v2/datastructure/genericcomparator"
+	"github.com/finderAUT/hive.go/v2/stringify"
 )
 
 // region RedBlackTree /////////////////////////////////////////////////////////////////////////////////////////////////

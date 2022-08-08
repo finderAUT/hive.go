@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"testing"
 
-	"github.com/iotaledger/hive.go/v2/serializer"
+	"github.com/finderAUT/hive.go/v2/serializer"
 
 	"github.com/stretchr/testify/assert"
 )

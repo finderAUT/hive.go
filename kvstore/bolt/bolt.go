@@ -7,10 +7,10 @@ import (
 
 	"go.etcd.io/bbolt"
 
-	"github.com/iotaledger/hive.go/v2/byteutils"
-	"github.com/iotaledger/hive.go/v2/kvstore"
-	"github.com/iotaledger/hive.go/v2/kvstore/utils"
-	"github.com/iotaledger/hive.go/v2/types"
+	"github.com/finderAUT/hive.go/v2/byteutils"
+	"github.com/finderAUT/hive.go/v2/kvstore"
+	"github.com/finderAUT/hive.go/v2/kvstore/utils"
+	"github.com/finderAUT/hive.go/v2/types"
 )
 
 const (

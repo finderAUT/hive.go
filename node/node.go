@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/iotaledger/hive.go/v2/daemon"
-	"github.com/iotaledger/hive.go/v2/logger"
+	"github.com/finderAUT/hive.go/v2/daemon"
+	"github.com/finderAUT/hive.go/v2/logger"
 	"go.uber.org/dig"
 )
 

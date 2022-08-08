@@ -1,7 +1,7 @@
 package proto
 
 import (
-	"github.com/iotaledger/hive.go/v2/autopeering/server"
+	"github.com/finderAUT/hive.go/v2/autopeering/server"
 	"google.golang.org/protobuf/proto"
 )
 

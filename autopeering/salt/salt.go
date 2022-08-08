@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	pb "github.com/iotaledger/hive.go/v2/autopeering/salt/proto"
+	pb "github.com/finderAUT/hive.go/v2/autopeering/salt/proto"
 	"google.golang.org/protobuf/proto"
 )
 

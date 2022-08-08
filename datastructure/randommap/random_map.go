@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/iotaledger/hive.go/v2/types"
+	"github.com/finderAUT/hive.go/v2/types"
 )
 
 func init() {

@@ -1,7 +1,7 @@
 package syncutils
 
 import (
-	"github.com/iotaledger/hive.go/v2/datastructure/set"
+	"github.com/finderAUT/hive.go/v2/datastructure/set"
 )
 
 type MultiMutexLockBuilder struct {

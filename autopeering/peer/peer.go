@@ -8,10 +8,10 @@ import (
 
 	"golang.org/x/xerrors"
 
-	pb "github.com/iotaledger/hive.go/v2/autopeering/peer/proto"
-	"github.com/iotaledger/hive.go/v2/autopeering/peer/service"
-	"github.com/iotaledger/hive.go/v2/crypto/ed25519"
-	"github.com/iotaledger/hive.go/v2/identity"
+	pb "github.com/finderAUT/hive.go/v2/autopeering/peer/proto"
+	"github.com/finderAUT/hive.go/v2/autopeering/peer/service"
+	"github.com/finderAUT/hive.go/v2/crypto/ed25519"
+	"github.com/finderAUT/hive.go/v2/identity"
 	"google.golang.org/protobuf/proto"
 )
 

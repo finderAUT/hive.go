@@ -3,7 +3,7 @@ package logger
 import (
 	"testing"
 
-	"github.com/iotaledger/hive.go/v2/events"
+	"github.com/finderAUT/hive.go/v2/events"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/mock"
 	"go.uber.org/zap"

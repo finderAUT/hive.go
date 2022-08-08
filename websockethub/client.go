@@ -4,8 +4,8 @@ import (
 	"sync"
 	"time"
 
+	"github.com/finderAUT/hive.go/v2/typeutils"
 	"github.com/gorilla/websocket"
-	"github.com/iotaledger/hive.go/v2/typeutils"
 )
 
 const (

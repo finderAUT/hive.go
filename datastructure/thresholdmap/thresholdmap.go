@@ -1,8 +1,8 @@
 package thresholdmap
 
 import (
-	"github.com/iotaledger/hive.go/v2/datastructure/genericcomparator"
-	"github.com/iotaledger/hive.go/v2/datastructure/redblacktree"
+	"github.com/finderAUT/hive.go/v2/datastructure/genericcomparator"
+	"github.com/finderAUT/hive.go/v2/datastructure/redblacktree"
 )
 
 // region ThresholdMap /////////////////////////////////////////////////////////////////////////////////////////////////

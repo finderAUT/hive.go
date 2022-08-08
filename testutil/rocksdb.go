@@ -4,8 +4,8 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/iotaledger/hive.go/v2/kvstore"
-	"github.com/iotaledger/hive.go/v2/kvstore/rocksdb"
+	"github.com/finderAUT/hive.go/v2/kvstore"
+	"github.com/finderAUT/hive.go/v2/kvstore/rocksdb"
 )
 
 // RocksDB creates a temporary RocksDBKVStore that automatically gets cleaned up when the test finishes.

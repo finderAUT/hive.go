@@ -1,8 +1,8 @@
 package udp
 
 import (
-	"github.com/iotaledger/hive.go/v2/events"
-	"github.com/iotaledger/hive.go/v2/syncutils"
+	"github.com/finderAUT/hive.go/v2/events"
+	"github.com/finderAUT/hive.go/v2/syncutils"
 	"net"
 	"strconv"
 )

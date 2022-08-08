@@ -1,8 +1,8 @@
 package types
 
 import (
-	"github.com/iotaledger/hive.go/v2/cerrors"
-	"github.com/iotaledger/hive.go/v2/marshalutil"
+	"github.com/finderAUT/hive.go/v2/cerrors"
+	"github.com/finderAUT/hive.go/v2/marshalutil"
 	"golang.org/x/xerrors"
 )
 
